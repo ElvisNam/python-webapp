@@ -1,3 +1,14 @@
+#!/usr/bin/env python
+
+
+__author__ = 'ElvisNam'
+
+
+'''
+Models for user, blog, comment.
+'''
+
+
 import time, uuid
 
 from transwarp.db import next_id
